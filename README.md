@@ -1,5 +1,13 @@
 ParaBank End-to-End Quality Assurance Project
 
+Team Members:
+
+Aleena: Project Lead & Manual Testing Specialist
+
+Aiman: Automation Engineer (Playwright)
+
+Arisha: API Tester & Defect Manager (Postman/Jira)
+
 Project Overview:
 This repository contains a comprehensive Quality Assurance (QA) suite for ParaBank, a retail banking application. The project demonstrates a tri-layer testing approach—Manual, Automation, and API testing—to validate financial logic, security, and UI stability.
 
@@ -38,11 +46,5 @@ Navigation: Confirmed a redirect bug where internal links sent users to an exter
 Reliability: Frequent 30-second timeouts during the registration flow indicated performance bottlenecks.
 
 
-Team Members:
 
-Aleena: Project Lead & Manual Testing Specialist
-
-Aiman: Automation Engineer (Playwright)
-
-Arisha: API Tester & Defect Manager (Postman/Jira)
 
