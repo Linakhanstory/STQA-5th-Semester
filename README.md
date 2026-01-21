@@ -1,6 +1,6 @@
 ParaBank End-to-End Quality Assurance Project
 
-Project Overview
+Project Overview:
 This repository contains a comprehensive Quality Assurance (QA) suite for ParaBank, a retail banking application. The project demonstrates a tri-layer testing approach—Manual, Automation, and API testing—to validate financial logic, security, and UI stability.
 
 Despite achieving coverage for all core functional requirements, the testing phase resulted in a "NO-GO" decision due to critical financial logic failures and UI instability.
