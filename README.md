@@ -41,7 +41,11 @@ Reliability: Frequent 30-second timeouts during the registration flow indicated 
 Team Members
 
 Aleena: Project Lead & Manual Testing Specialist
+
 Aiman: Automation Engineer (Playwright)
+
+
+
 Arisha: API Tester & Defect Manager (Postman/Jira)
 
 
