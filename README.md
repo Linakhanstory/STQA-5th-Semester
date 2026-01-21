@@ -46,9 +46,3 @@ Aiman: Automation Engineer (Playwright)
 
 Arisha: API Tester & Defect Manager (Postman/Jira)
 
-Arisha: API Tester & Defect Manager (Postman/Jira)
-
-
-Aiman: Automation Engineer (Playwright)
-
-Arisha: API Tester & Defect Manager (Postman/Jira)
