@@ -5,7 +5,8 @@ This repository contains a comprehensive Quality Assurance (QA) suite for ParaBa
 
 Despite achieving coverage for all core functional requirements, the testing phase resulted in a "NO-GO" decision due to critical financial logic failures and UI instability.
 
-Technical Stack
+Technical Stack:
+
 Manual Testing: Structured test case design and execution (25 cases).
 
 Automation: Playwright (Node.js) for UI browser automation.
@@ -14,7 +15,7 @@ API Testing: Postman for backend endpoint validation and status code verificatio
 
 Management: Jira for defect tracking and Microsoft Excel for the Requirements Traceability Matrix (RTM).
 
-Key Testing Deliverables
+
 Test Plan: Detailed strategy covering scope, entrance/exit criteria, and risk mitigation.
 
 Manual Test Suite: 25 test cases covering Positive, Negative, and Edge-case scenarios.
@@ -36,25 +37,13 @@ Navigation: Confirmed a redirect bug where internal links sent users to an exter
 
 Reliability: Frequent 30-second timeouts during the registration flow indicated performance bottlenecks.
 
-Project Structure
-Bash
 
-├── Manual_Testing/
-│   ├── 25_Manual_Test_Cases.pdf
-│   └── RTM_Report.pdf
-├── Automation_Playwright/
-│   ├── tests/
-│   └── playwright.config.js
-├── API_Testing/
-│   └── Postman_Collection.json
-└── Documentation/
-    ├── Test_Plan.md
-    └── Software_Release_Decision.pdf
-    
 Team Members
+
 Aleena: Project Lead & Manual Testing Specialist
 Aiman: Automation Engineer (Playwright)
 Arisha: API Tester & Defect Manager (Postman/Jira)
+
 
 Aiman: Automation Engineer (Playwright)
 
