@@ -38,13 +38,13 @@ Navigation: Confirmed a redirect bug where internal links sent users to an exter
 Reliability: Frequent 30-second timeouts during the registration flow indicated performance bottlenecks.
 
 
-Team Members
+Team Members:
 
 Aleena: Project Lead & Manual Testing Specialist
 
 Aiman: Automation Engineer (Playwright)
 
-
+Arisha: API Tester & Defect Manager (Postman/Jira)
 
 Arisha: API Tester & Defect Manager (Postman/Jira)
 
